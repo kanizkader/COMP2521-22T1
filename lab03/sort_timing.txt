@@ -1,0 +1,23 @@
+Input	Initial	Number	AvgTime		AvgTime
+Size	Order	of Runs	for sortIntList	for sort
+10000	random	5	0.61		0
+10000	sorted	5	0.45		0
+10000	reverse	5	0.19		0
+20000	random	5	4.2		    0
+20000	sorted	5	1.7		    0
+20000	reverse	5	0.77		0
+40000	random	5	22		    0
+40000	sorted	5	6.6 		0.01
+40000	reverse	5	3.1 		0
+50000	random	5	35  		0.02
+50000	sorted	5	10		    0.02
+50000	reverse	5	4.8 		0.02
+100000	random	5	157 		0.05
+100000	sorted	5	42  		0.1
+100000	reverse	5	19  		0.02 
+
+// sortIntList is testing IntList.c, which creates and sorts through a linked list of the values.  
+// It creates a copy of the list everytime and frees the original list. 
+// sortIntList is a lot slower than sort. 
+// On average, random is the slowest then sorted, and then reverse.
+// sortIntList has time complexity aprroximately O(n) for sorted and reverse, but for random it can be different everytime.

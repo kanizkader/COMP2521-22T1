@@ -1,0 +1,19 @@
+ln
+lz
+fz 3
++ 1 Stark Tony
++ 2 Banner Bruce
+fz 1
+d 2
+fn Stark Tony
++ 6 Rogers Steve
++ 4 Pym Hank
++ 3 Romanoff Natasha
+ln
+lz
+fz 3
++ 7 Stark Tony
++ 8 Stark Steve
++ 9 Rogers Tony
+ln
+fn Stark Tony
