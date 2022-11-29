@@ -1,0 +1,10 @@
++ Harry
++ Ron
++ Kaniz
++ Hermione
+f Harry Ron
+f Hermione Kaniz
+f Ron Kaniz
+f Ron Hermione
+m Harry Hermione
+m Harry Kaniz 
